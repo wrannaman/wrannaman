@@ -32,3 +32,8 @@ Hi, I'm Andrew, CTO of a startup in LA. I'm @wrannaman most places on the intern
 
 0.1.5
 
+
+# Support 
+
+if you'd like to support me, you can buy the book on [Gumroad](https://gum.co/MbJMZ) or on [Amazon](https://www.amazon.com/dp/B08JKTKVHN)✌️
+
