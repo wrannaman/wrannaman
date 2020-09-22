@@ -20,9 +20,11 @@ Hi, I'm Andrew, CTO of a startup in LA. I'm @wrannaman most places on the intern
 
 [0.1.0](/0.1.0.md)
 
+[0.1.1](/0.1.1.md)
+
+
 ## New Chapter Released Each Day Until Launch on Oct 20th 2020!
 
-0.1.1
 
 0.1.2
 
@@ -31,6 +33,9 @@ Hi, I'm Andrew, CTO of a startup in LA. I'm @wrannaman most places on the intern
 0.1.4
 
 0.1.5
+
+0.1.6
+
 
 
 # Support 
