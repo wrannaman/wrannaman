@@ -44,6 +44,7 @@ What kind of world is this?
 - There are guns, planes, helicopters
 
 # Chapters 
+## Read the whole thing here for free!
 
 [prelude](/prelude.md)
 
