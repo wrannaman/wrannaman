@@ -8,6 +8,7 @@ Author: **Wrannaman**
 
 Hi, I'm Andrew, CTO of a startup in LA. I'm @wrannaman most places on the internet. I'm releasing my latest sci-fi novel on Github and would love for you to follow along!
 
+[Get a new chapter emailed every day!](https://wrannaman.substack.com)
 
 [The Wrannaman Book](https://github.com/wrannaman/wrannaman)
 
