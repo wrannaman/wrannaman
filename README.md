@@ -1,8 +1,4 @@
-# Wrannaman
-
-Book Name: **0.1.0**
-
-Author: **Wrannaman**
+# Wrannaman The Book
 
 ## An open source sci-fi novel
 
