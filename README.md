@@ -14,6 +14,34 @@ Hi, I'm Andrew, CTO of a startup in LA. I'm @wrannaman most places on the intern
 
 [![Wrannaman](https://s3.us-west-1.wasabisys.com/wrannaman/images/github_footer.png)](https://wrannaman.com)
 
+# Synopsis 
+
+Follow Kaiya Hikaya in this action packed, post apocalyptic journey set thousands of years after the singularity.
+
+Kaiya is chosen as the conduit to reunite the sentient AI that destroyed humanity. Watch her fight to save her friends from the Wrannaman-killing Sikkas and find out what happened to her mother.
+
+Seriously though, I wrote this to be a purely fun read. You'll enjoy this if you liked:
+
+- The Hunger Games
+
+- The Maze Runner
+
+- The Road
+
+- The Kingkiller Chronicles
+
+- The Amber Chronicles
+
+- Mistborn Trilogy
+
+
+What kind of world is this?
+
+- No Dragons / Wizards / etc.
+
+- It's set in the future, but not one in which technology progressed much further than where it is today.
+
+- There are guns, planes, helicopters
 
 # Chapters 
 
