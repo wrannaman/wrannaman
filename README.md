@@ -56,6 +56,8 @@ What kind of world is this?
 
 [0.1.5](/0.1.5.md)
 
+[0.1.6](/0.1.6.md)
+
 ... ends on 0.1.31
 
 ## New Chapter Released Each Day Until Launch on Oct 20th 2020!
