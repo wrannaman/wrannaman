@@ -1,5 +1,8 @@
 # Wrannaman The Book
 
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/wrannaman/wrannaman/graphs/contributors/)
+
+
 ## An open source sci-fi novel
 
 Hi, I'm Andrew, CTO of a startup in LA. I'm @wrannaman most places on the internet. I'm releasing my latest sci-fi novel on Github and would love for you to follow along!
