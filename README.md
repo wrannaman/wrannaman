@@ -72,6 +72,6 @@ What kind of world is this?
 
 # Support 
 
-if you'd like to support me, you can buy the book on [Gumroad](https://gum.co/MbJMZ) or on [Amazon](https://www.amazon.com/dp/B08JKTKVHN)✌️
+if you'd like to support the project, you can buy the book on [Gumroad](https://gum.co/MbJMZ) or on [Amazon](https://www.amazon.com/dp/B08JKTKVHN)✌️
 Use code "presale" on Gumroad for 30% off!
 
