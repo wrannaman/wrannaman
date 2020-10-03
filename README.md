@@ -71,6 +71,7 @@ What kind of world is this?
 
 [0.1.11](/0.1.11.md)
 
+[0.1.12](/0.1.12.md)
 
 ... ends on 0.1.31
 
